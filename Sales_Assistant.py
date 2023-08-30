@@ -1,24 +1,37 @@
 import openpyxl
-from openpyxl.styles import Font, Alignment, Border, Side, PatternFill
+from openpyxl.styles import Font, Alignment, Border, Side, PatternFill, NamedStyle
 from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.page import PageMargins
 from datetime import datetime
+import os
+import sys
 
 
-while True:  # Create an infinite loop to keep asking until valid input is given
-    try:
-        # get the file name
-        file_name = input('please enter the sales excel file name: ')
-        # Load the workbook
-        workbook = openpyxl.load_workbook(file_name + '.xlsx')
-        # Get the target sheet
-        sheet = workbook['Sales Log Ar']
-        #save the file
-        workbook.save(f"{file_name}.xlsx")
-        break
-    except FileNotFoundError:
-        print("Invalid input. You did not enter the correct excel file's name")
-        print("OR the excel sheet is not in the same folder as the program")
+# Get the directory where the script or executable is located
+if getattr(sys, 'frozen', False):  # If running as a compiled .exe
+    script_directory = os.path.dirname(sys.executable)
+else:
+    script_directory = os.path.dirname(os.path.abspath(__file__))
+
+# List all files in the directory
+all_files = os.listdir(script_directory)
+
+# Filter for Excel files with ".xlsx" extension
+excel_files = [file for file in all_files if file.endswith('.xlsx')]
+
+if len(excel_files) == 1:
+    excel_sheet_name = excel_files[0]
+    print("Excel sheet detected")
+elif len(excel_files) > 1:
+    print("Multiple Excel sheets found, you should remove the extra sheets.")
+else:
+    print("No Excel sheet found, you must place the Excel sheet inside the folder.")
+# Load the workbook
+workbook = openpyxl.load_workbook(excel_sheet_name)
+# Get the target sheet
+sheet = workbook['Sales Log Ar']
+#save the file
+workbook.save(f"{excel_sheet_name}")
 
 ## Unmerge all cells in the sheet
 
@@ -88,7 +101,7 @@ sheet.delete_rows(1, 2)
 
 # add a new column
 sheet.insert_cols(3)
-workbook.save(f"{file_name}.xlsx")
+workbook.save(f"{excel_sheet_name}")
 
 # Loop through each row and split the values in the second column using the delimiter "/" (text to columns)
 
@@ -149,7 +162,7 @@ worksheet = workbook.active
 for row in worksheet.iter_rows():
     row[1 - 1].value, row[4 - 1].value = row[4 - 1].value, row[1 - 1].value
 
-workbook.save(f"{file_name}.xlsx")
+workbook.save(f"{excel_sheet_name}")
 
 
 # add each employee to the top
@@ -183,10 +196,10 @@ for value in unique_values:
     workbook.active.cell(row=2, column=col_index + 1, value='القيمة')
 
 # Save the modified Excel file
-workbook.save(f"{file_name}.xlsx")
+workbook.save(f"{excel_sheet_name}")
 
 # Load the Excel file
-workbook = openpyxl.load_workbook(f"{file_name}.xlsx")
+workbook = openpyxl.load_workbook(f"{excel_sheet_name}")
 ws = workbook.active
 
 # List to store filtered cells based on conditions
@@ -243,14 +256,14 @@ for cell_to_fill in cells_to_fill_2:
     if has_value_2:
         value_to_copy = ws.cell(row=cell_to_fill.row, column=ws.max_column).value
         cell_to_fill.value = value_to_copy
-workbook.save(f"{file_name}.xlsx")
+workbook.save(f"{excel_sheet_name}")
 
-workbook = openpyxl.load_workbook(f"{file_name}.xlsx")
+workbook = openpyxl.load_workbook(f"{excel_sheet_name}")
 # Get the target sheet
 sheet = workbook['Sales Log Ar']
 
 sheet.delete_cols(2)
-workbook.save(f"{file_name}.xlsx")
+workbook.save(f"{excel_sheet_name}")
 
 ### add together the first column
 
@@ -339,10 +352,18 @@ for row in sheet.iter_rows():
 sheet.column_dimensions['A'].width = 33
 
 #rest of the columns
-for column in sheet.columns:
-    if column[0].column_letter != 'A':  # Exclude the first column
+for i, column in enumerate(sheet.columns):
+    if i % 2 != 0:  # Adjust every other column (odd index)
         column_letter = column[0].column_letter
         sheet.column_dimensions[column_letter].width = 10.5
+
+for i, column in enumerate(sheet.columns):
+    if column[0].column_letter != 'A':  # Exclude the first column
+        if i % 2 == 0:  # Adjust every other column (even index)
+            column_letter = column[0].column_letter
+            sheet.column_dimensions[column_letter].width = 15
+            for cell in column:
+                cell.number_format = '#,##0.00'
 
 # Create font object for Calibri, bold, size 14
 bold_font = Font(name='Calibri', bold=True, size=14)
@@ -373,7 +394,7 @@ for value in range (len(unique_values)):
     if value == 5:
         sheet.merge_cells('L1:M1')
 
-workbook.save(f"{file_name}.xlsx")
+workbook.save(f"{excel_sheet_name}")
 
 ### borders
 
@@ -391,15 +412,9 @@ for row_idx, row in enumerate(sheet.iter_rows(), start=1):
             cell.border = Border(
                 left=Side(style="thick" if col_idx == 1 else "medium"),
                 right=Side(style="thick" if col_idx == len(row) else "medium"),
-                top=Side(style="dashed", color="000000"),
-                bottom=Side(style="dashed", color="000000")
+                top=Side(style="hair", color="000000"),
+                bottom=Side(style="hair", color="000000")
             )
-
-
-# Apply the thousand separator format to all cells
-for row in sheet.iter_rows():
-    for cell in row:
-        cell.number_format = '#,##0'  # Using a thousand separator
 
 ### color the cells
 
@@ -420,11 +435,8 @@ for cell in sheet[last_row]:
 ###ready to print (page setup)
 
 # Set the  margins
-sheet.page_margins = PageMargins(top= 0.8 , header=0.25, bottom= 0.75,
-                                 footer=0.25,right = 0, left = 0.5)
-
-# Center the page horizontally
-sheet.page_setup.horizontalCentered = True
+sheet.page_margins = PageMargins(top= 0.75 , header=0.25, bottom= 0.75,
+                                 footer=0.25,right = 0, left = 0)
 
 ## header
 
@@ -442,7 +454,7 @@ days_in_arabic = {
 current_day_index = datetime.now().weekday()
 Day_of_the_week = days_in_arabic[current_day_index]
 current_date = datetime.now().strftime("%d/%m/%Y")  # Format as "day/month/year"
-header_text = f"تقرير المبيعات يوم {Day_of_the_week} الموافق {current_date}"
+header_text = f"مبيعات يوم {Day_of_the_week} الموافق {current_date}"
 
 # Assign the header text to the sheet
 sheet.oddHeader.center.text = header_text
@@ -456,15 +468,30 @@ sheet.evenHeader.center.font = "Tahoma,Bold"
 
 # Assign the footer text to the sheet#
 
-sheet.oddFooter.center.text = "مدير الحسابات/"
+sheet.oddFooter.center.text = "مدير الحسابات"
 sheet.oddFooter.center.size = 14
 sheet.oddFooter.center.font = "Tahoma,Bold"
 
-sheet.oddFooter.right.text = "    اعداد/"
+sheet.oddFooter.right.text = "    اعداد"
 sheet.oddFooter.right.size = 14
 sheet.oddFooter.right.font = "Tahoma,Bold"
 
 sheet.oddFooter.left.text = ""
 
-workbook.save(f"{file_name}.xlsx")
+# Clear the print area
+sheet.print_area = ''
+
+workbook.save(f"{excel_sheet_name}")
+workbook = openpyxl.load_workbook(excel_sheet_name)
+sheet = workbook['Sales Log Ar']
+
+# Adjust the page setup for printing
+sheet.page_setup.orientation = sheet.ORIENTATION_LANDSCAPE
+sheet.page_setup.paperSize = sheet.PAPERSIZE_A4
+sheet.page_setup.fitToPage = 1
+
+openpyxl.worksheet.page.PrintOptions(horizontalCentered=True)
+sheet.page_setup.horizontalCentered = True
+
+workbook.save(f"{excel_sheet_name}")
 

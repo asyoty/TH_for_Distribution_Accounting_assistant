@@ -19,11 +19,11 @@ all_files = os.listdir(script_directory)
 # Filter for Excel files with ".xlsx" extension
 excel_files = [file for file in all_files if file.endswith('.xlsx')]
 
-if len(excel_files) == 1:
+if len(excel_files) > 1:
+    print("Multiple Excel sheets found, you should remove the extra sheets.")
+elif len(excel_files) == 1:
     excel_sheet_name = excel_files[0]
     print("Excel sheet detected")
-elif len(excel_files) > 1:
-    print("Multiple Excel sheets found, you should remove the extra sheets.")
 else:
     print("No Excel sheet found, you must place the Excel sheet inside the folder.")
 # Load the workbook
@@ -480,7 +480,7 @@ sheet.oddFooter.left.text = ""
 
 # Clear the print area
 sheet.print_area = ''
-
+'''
 workbook.save(f"{excel_sheet_name}")
 workbook = openpyxl.load_workbook(excel_sheet_name)
 sheet = workbook['Sales Log Ar']
@@ -492,6 +492,6 @@ sheet.page_setup.fitToPage = 1
 
 openpyxl.worksheet.page.PrintOptions(horizontalCentered=True)
 sheet.page_setup.horizontalCentered = True
-
+'''
 workbook.save(f"{excel_sheet_name}")
 

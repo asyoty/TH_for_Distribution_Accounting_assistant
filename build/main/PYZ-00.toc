@@ -6,6 +6,14 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
   ('_compat_pickle',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
@@ -21,6 +29,14 @@
   ('_pydecimal',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils._win32',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
    'PYMODULE'),
   ('_strptime',
    'C:\\Users\\Alfred '
@@ -38,9 +54,141 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
    'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
   ('base64',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bdb.py',
    'PYMODULE'),
   ('bisect',
    'C:\\Users\\Alfred '
@@ -53,6 +201,42 @@
   ('calendar',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Users\\Alfred '
@@ -70,6 +254,18 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
    'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
@@ -78,13 +274,81 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
    'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
   ('decimal',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
    'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\difflib.py',
+   'PYMODULE'),
   ('dis',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\doctest.py',
    'PYMODULE'),
   ('email',
    'C:\\Users\\Alfred '
@@ -194,6 +458,10 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
    'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\glob.py',
+   'PYMODULE'),
   ('gzip',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
@@ -201,6 +469,18 @@
   ('hashlib',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\entities.py',
    'PYMODULE'),
   ('http',
    'C:\\Users\\Alfred '
@@ -213,6 +493,14 @@
   ('http.cookiejar',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\imp.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Users\\Alfred '
@@ -306,6 +594,22 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
    'PYMODULE'),
+  ('json',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
   ('logging',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
@@ -318,6 +622,98 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
    'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
   ('netrc',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
@@ -329,6 +725,474 @@
   ('numbers',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\version.py',
    'PYMODULE'),
   ('opcode',
    'C:\\Users\\Alfred '
@@ -1034,9 +1898,1313 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\xml\\functions.py',
    'PYMODULE'),
+  ('pandas',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pdb.py',
+   'PYMODULE'),
   ('pickle',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.actions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.common',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.core',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.results',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.testing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\plistlib.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Users\\Alfred '
@@ -1046,6 +3214,87 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
    'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pytz',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
   ('quopri',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
@@ -1053,6 +3302,14 @@
   ('random',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\secrets.py',
    'PYMODULE'),
   ('selectors',
    'C:\\Users\\Alfred '
@@ -1070,9 +3327,29 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
    'PYMODULE'),
+  ('six',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
   ('socket',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sqlite3\\dump.py',
    'PYMODULE'),
   ('ssl',
    'C:\\Users\\Alfred '
@@ -1094,6 +3371,10 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
    'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sysconfig.py',
+   'PYMODULE'),
   ('tarfile',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
@@ -1114,13 +3395,505 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
    'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tty.py',
+   'PYMODULE'),
   ('typing',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
    'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32timezone',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32timezone.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('xlsxwriter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\__init__.py',
+   'PYMODULE'),
+  ('xlsxwriter.app',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\app.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_area',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_area.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_bar',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_bar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_column',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_column.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_doughnut',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_doughnut.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_line',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_line.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_pie',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_pie.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_radar',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_radar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_scatter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_scatter.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_stock',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chart_stock.py',
+   'PYMODULE'),
+  ('xlsxwriter.chartsheet',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\chartsheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.comments',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\comments.py',
+   'PYMODULE'),
+  ('xlsxwriter.contenttypes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\contenttypes.py',
+   'PYMODULE'),
+  ('xlsxwriter.core',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\core.py',
+   'PYMODULE'),
+  ('xlsxwriter.custom',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\custom.py',
+   'PYMODULE'),
+  ('xlsxwriter.drawing',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\drawing.py',
+   'PYMODULE'),
+  ('xlsxwriter.exceptions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\exceptions.py',
+   'PYMODULE'),
+  ('xlsxwriter.format',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\format.py',
+   'PYMODULE'),
+  ('xlsxwriter.metadata',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\metadata.py',
+   'PYMODULE'),
+  ('xlsxwriter.packager',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\packager.py',
+   'PYMODULE'),
+  ('xlsxwriter.relationships',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\relationships.py',
+   'PYMODULE'),
+  ('xlsxwriter.shape',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\shape.py',
+   'PYMODULE'),
+  ('xlsxwriter.sharedstrings',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\sharedstrings.py',
+   'PYMODULE'),
+  ('xlsxwriter.styles',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\styles.py',
+   'PYMODULE'),
+  ('xlsxwriter.table',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\table.py',
+   'PYMODULE'),
+  ('xlsxwriter.theme',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\theme.py',
+   'PYMODULE'),
+  ('xlsxwriter.utility',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\utility.py',
+   'PYMODULE'),
+  ('xlsxwriter.vml',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\vml.py',
+   'PYMODULE'),
+  ('xlsxwriter.workbook',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\workbook.py',
+   'PYMODULE'),
+  ('xlsxwriter.worksheet',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\worksheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.xmlwriter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlsxwriter\\xmlwriter.py',
+   'PYMODULE'),
+  ('xlwings',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\__init__.py',
+   'PYMODULE'),
+  ('xlwings._win32patch',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\_win32patch.py',
+   'PYMODULE'),
+  ('xlwings._xlmac',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\_xlmac.py',
+   'PYMODULE'),
+  ('xlwings._xlwindows',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\_xlwindows.py',
+   'PYMODULE'),
+  ('xlwings.base_classes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\base_classes.py',
+   'PYMODULE'),
+  ('xlwings.com_server',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\com_server.py',
+   'PYMODULE'),
+  ('xlwings.constants',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\constants.py',
+   'PYMODULE'),
+  ('xlwings.conversion',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\__init__.py',
+   'PYMODULE'),
+  ('xlwings.conversion.framework',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\framework.py',
+   'PYMODULE'),
+  ('xlwings.conversion.numpy_conv',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\numpy_conv.py',
+   'PYMODULE'),
+  ('xlwings.conversion.pandas_conv',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\pandas_conv.py',
+   'PYMODULE'),
+  ('xlwings.conversion.standard',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\standard.py',
+   'PYMODULE'),
+  ('xlwings.expansion',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\expansion.py',
+   'PYMODULE'),
+  ('xlwings.mac_dict',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mac_dict.py',
+   'PYMODULE'),
+  ('xlwings.main',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\main.py',
+   'PYMODULE'),
+  ('xlwings.mistune',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\__init__.py',
+   'PYMODULE'),
+  ('xlwings.mistune.block_parser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\block_parser.py',
+   'PYMODULE'),
+  ('xlwings.mistune.inline_parser',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\inline_parser.py',
+   'PYMODULE'),
+  ('xlwings.mistune.markdown',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\markdown.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\__init__.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins.abbr',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\abbr.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins.def_list',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\def_list.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins.extra',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\extra.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins.footnotes',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\footnotes.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins.table',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\table.py',
+   'PYMODULE'),
+  ('xlwings.mistune.plugins.task_lists',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\task_lists.py',
+   'PYMODULE'),
+  ('xlwings.mistune.renderers',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\renderers.py',
+   'PYMODULE'),
+  ('xlwings.mistune.scanner',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\scanner.py',
+   'PYMODULE'),
+  ('xlwings.mistune.util',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\util.py',
+   'PYMODULE'),
+  ('xlwings.pro',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\__init__.py',
+   'PYMODULE'),
+  ('xlwings.pro._xlcalamine',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\_xlcalamine.py',
+   'PYMODULE'),
+  ('xlwings.pro._xlofficejs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\_xlofficejs.py',
+   'PYMODULE'),
+  ('xlwings.pro._xlremote',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\_xlremote.py',
+   'PYMODULE'),
+  ('xlwings.pro.embedded_code',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\embedded_code.py',
+   'PYMODULE'),
+  ('xlwings.pro.module_permissions',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\module_permissions.py',
+   'PYMODULE'),
+  ('xlwings.pro.reports',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\__init__.py',
+   'PYMODULE'),
+  ('xlwings.pro.reports.filters',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\filters.py',
+   'PYMODULE'),
+  ('xlwings.pro.reports.image',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\image.py',
+   'PYMODULE'),
+  ('xlwings.pro.reports.main',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\main.py',
+   'PYMODULE'),
+  ('xlwings.pro.reports.markdown',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\markdown.py',
+   'PYMODULE'),
+  ('xlwings.pro.reports.pdf',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\pdf.py',
+   'PYMODULE'),
+  ('xlwings.pro.udfs_officejs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\udfs_officejs.py',
+   'PYMODULE'),
+  ('xlwings.pro.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\utils.py',
+   'PYMODULE'),
+  ('xlwings.udfs',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\udfs.py',
+   'PYMODULE'),
+  ('xlwings.utils',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\utils.py',
+   'PYMODULE'),
   ('xml',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\xmlbuilder.py',
    'PYMODULE'),
   ('xml.etree',
    'C:\\Users\\Alfred '
@@ -1174,7 +3947,19 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\xmlreader.py',
    'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
   ('zipfile',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipimport.py',
    'PYMODULE')])

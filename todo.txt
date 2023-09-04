@@ -1,0 +1,5 @@
+1. pull from doubleclick directly
+
+2. automatic ordering(sort)
+
+pyinstaller --onefile your_script.py

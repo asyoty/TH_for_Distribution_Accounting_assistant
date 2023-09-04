@@ -1,10 +1,12 @@
 import openpyxl
-from openpyxl.styles import Font, Alignment, Border, Side, PatternFill, NamedStyle
+from openpyxl.styles import Font, Alignment, Border, Side, PatternFill
 from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.page import PageMargins
+import xlwings as xw
 from datetime import datetime
 import os
 import sys
+
 
 
 # Get the directory where the script or executable is located
@@ -21,7 +23,7 @@ excel_files = [file for file in all_files if file.endswith('.xlsx')]
 
 if len(excel_files) == 1:
     excel_sheet_name = excel_files[0]
-    print("Excel sheet detected")
+    print("Excel sheet detected.")
 elif len(excel_files) > 1:
     print("Multiple Excel sheets found, you should remove the extra sheets.")
 else:
@@ -44,7 +46,7 @@ for merged_range in merged_ranges_list:
 
 # Delete the specified number of rows from the sheet
 sheet.delete_rows(1, 11)
-
+print('Unmerging...')
 ### delete unwanted columns ###
 
 def find_columns_with_words(search_words_first_row, search_words_third_row):
@@ -61,7 +63,7 @@ def find_columns_with_words(search_words_first_row, search_words_third_row):
         if sheet.cell(row=3, column=col).value in search_words_third_row:
             List_Of_Columns_To_Keep.append(col)
     return List_Of_Columns_To_Keep
-
+print('Deleting unwanted data...')
 # Call the function to find columns with specific words in the first row and third row
 search_words_first_row = ['جهة التعامل']
 search_words_third_row = ['الكمية', 'القيمة', 'الصنف']
@@ -194,7 +196,7 @@ for value in unique_values:
     # Set Arabic header values in the second row
     workbook.active.cell(row=2, column=col_index, value='الكمية')
     workbook.active.cell(row=2, column=col_index + 1, value='القيمة')
-
+print('Creating pivot table...')
 # Save the modified Excel file
 workbook.save(f"{excel_sheet_name}")
 
@@ -321,6 +323,7 @@ workbook.active.merge_cells(start_row=1, start_column=last_col, end_row=2, end_c
 
 ##### formatting #####
 
+print('Formatting...')
 
 ### arrange the rows alphabetically
 
@@ -345,28 +348,28 @@ for idx, row in enumerate(new_rows, start=1):
 sheet.freeze_panes = None
 #row width to 20px
 for row in sheet.iter_rows():
-    sheet.row_dimensions[row[0].row].height = 40
+    sheet.row_dimensions[row[0].row].height = 45
 ##columns width
 
 #first column
-sheet.column_dimensions['A'].width = 33
+sheet.column_dimensions['A'].width = 42
 
 #rest of the columns
 for i, column in enumerate(sheet.columns):
     if i % 2 != 0:  # Adjust every other column (odd index)
         column_letter = column[0].column_letter
-        sheet.column_dimensions[column_letter].width = 10.5
+        sheet.column_dimensions[column_letter].width = 8
 
 for i, column in enumerate(sheet.columns):
     if column[0].column_letter != 'A':  # Exclude the first column
         if i % 2 == 0:  # Adjust every other column (even index)
             column_letter = column[0].column_letter
-            sheet.column_dimensions[column_letter].width = 15
+            sheet.column_dimensions[column_letter].width = 17
             for cell in column:
                 cell.number_format = '#,##0.00'
 
 # Create font object for Calibri, bold, size 14
-bold_font = Font(name='Calibri', bold=True, size=14)
+bold_font = Font(name='Calibri', bold=True, size=18)
 
 # Create alignment object for center alignment and text wrap
 center_alignment = Alignment(horizontal='center', vertical='center', wrap_text=False)
@@ -432,11 +435,32 @@ last_row = sheet.max_row
 for cell in sheet[last_row]:
     cell.fill = light_grey_fill
 
+### create new sheet
+
+# Specify the source worksheet
+source_worksheet = workbook['Sales Log Ar']
+
+# Create a new worksheet by copying the source worksheet
+new_worksheet = workbook.copy_worksheet(source_worksheet)
+
+# delete the old sheet
+workbook.remove(source_worksheet)
+
+# Rename the new worksheet (optional)
+new_worksheet.title = 'Sales Log Ar'
+
+# Save the modified workbook
+workbook.save(f"{excel_sheet_name}")
+
+#
+sheet = workbook['Sales Log Ar']
 ###ready to print (page setup)
+print('Ready for printing...')
+
 
 # Set the  margins
-sheet.page_margins = PageMargins(top= 0.75 , header=0.25, bottom= 0.75,
-                                 footer=0.25,right = 0, left = 0)
+sheet.page_margins = PageMargins(top= 0.75 , header=0.3, bottom= 0.75,
+                                 footer=0.3,right = 0.25, left = 0.25)
 
 ## header
 
@@ -476,22 +500,60 @@ sheet.oddFooter.right.text = "    اعداد"
 sheet.oddFooter.right.size = 14
 sheet.oddFooter.right.font = "Tahoma,Bold"
 
-sheet.oddFooter.left.text = ""
+#this is here to prevent a weird error that ignores formatting for footer center
+sheet.oddFooter.left.text = "    "
+sheet.oddFooter.left.size = 14
+sheet.oddFooter.left.font = "Tahoma,Bold"
 
 # Clear the print area
 sheet.print_area = ''
 
+# Save the workbook after making these changes
 workbook.save(f"{excel_sheet_name}")
+#close openpyxl to use xlwings
+workbook.close()
+
+## Adjust the page setup for printing xlwings
+
+# Open the Excel file
+wbxw = xw.Book(f"{excel_sheet_name}")
+
+# Choose the sheet you want to modify
+sheet = wbxw.sheets['Sales Log Ar']
+
+# Set horizontal centering
+sheet.api.PageSetup.CenterHorizontally = True
+
+# Set "Fit to Page" option
+sheet.api.PageSetup.Zoom = False
+sheet.api.PageSetup.FitToPagesWide = 1
+sheet.api.PageSetup.FitToPagesTall = 1
+
+# Save the modified Excel file
+wbxw.save()
+wbxw.close()
+
+
+# Load the workbook again
 workbook = openpyxl.load_workbook(excel_sheet_name)
+# Get the target sheet
 sheet = workbook['Sales Log Ar']
 
-# Adjust the page setup for printing
-sheet.page_setup.orientation = sheet.ORIENTATION_LANDSCAPE
-sheet.page_setup.paperSize = sheet.PAPERSIZE_A4
-sheet.page_setup.fitToPage = 1
 
-openpyxl.worksheet.page.PrintOptions(horizontalCentered=True)
-sheet.page_setup.horizontalCentered = True
 
+
+
+
+
+
+
+
+
+
+# Save the workbook after making these changes
 workbook.save(f"{excel_sheet_name}")
+('Saving...')
+
+
+
 

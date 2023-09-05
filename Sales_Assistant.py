@@ -6,8 +6,7 @@ import xlwings as xw
 from datetime import datetime
 import os
 import sys
-
-
+import time
 
 # Get the directory where the script or executable is located
 if getattr(sys, 'frozen', False):  # If running as a compiled .exe
@@ -21,16 +20,22 @@ all_files = os.listdir(script_directory)
 # Filter for Excel files with ".xlsx" extension
 excel_files = [file for file in all_files if file.endswith('.xlsx')]
 
-if len(excel_files) > 1:
-    print("Multiple Excel sheets found, you should remove the extra sheets.")
-elif len(excel_files) == 1:
-    excel_sheet_name = excel_files[0]
-    print("Excel sheet detected.")
-elif len(excel_files) > 1:
-    print("Multiple Excel sheets found, you should remove the extra sheets.")
-    print("Excel sheet detected")
-else:
-    print("No Excel sheet found, you must place the Excel sheet inside the folder.")
+while True:
+    if len(excel_files) == 1:
+        excel_sheet_name = excel_files[0]
+        print("Excel sheet detected.")
+        break
+    elif len(excel_files) > 1:
+        print("Multiple Excel sheets found, you should remove the extra sheet(s).")
+    else:
+        print("No Excel sheet found, you must place the Excel sheet inside the folder.")
+
+    print('App closing in 5 seconds.')
+    time.sleep(5)
+    sys.exit()
+
+
+
 # Load the workbook
 workbook = openpyxl.load_workbook(excel_sheet_name)
 # Get the target sheet
@@ -49,7 +54,6 @@ for merged_range in merged_ranges_list:
 
 # Delete the specified number of rows from the sheet
 sheet.delete_rows(1, 11)
-print('Unmerging...')
 ### delete unwanted columns ###
 
 def find_columns_with_words(search_words_first_row, search_words_third_row):
@@ -66,7 +70,6 @@ def find_columns_with_words(search_words_first_row, search_words_third_row):
         if sheet.cell(row=3, column=col).value in search_words_third_row:
             List_Of_Columns_To_Keep.append(col)
     return List_Of_Columns_To_Keep
-print('Deleting unwanted data...')
 # Call the function to find columns with specific words in the first row and third row
 search_words_first_row = ['جهة التعامل']
 search_words_third_row = ['الكمية', 'القيمة', 'الصنف']
@@ -199,7 +202,6 @@ for value in unique_values:
     # Set Arabic header values in the second row
     workbook.active.cell(row=2, column=col_index, value='الكمية')
     workbook.active.cell(row=2, column=col_index + 1, value='القيمة')
-print('Creating pivot table...')
 # Save the modified Excel file
 workbook.save(f"{excel_sheet_name}")
 
@@ -325,8 +327,6 @@ workbook.active.merge_cells(start_row=1, start_column=last_col - 1, end_row=2, e
 workbook.active.merge_cells(start_row=1, start_column=last_col, end_row=2, end_column=last_col)
 
 ##### formatting #####
-
-print('Formatting...')
 
 ### arrange the rows alphabetically
 
@@ -458,8 +458,6 @@ workbook.save(f"{excel_sheet_name}")
 #
 sheet = workbook['Sales Log Ar']
 ###ready to print (page setup)
-print('Ready for printing...')
-
 
 # Set the  margins
 sheet.page_margins = PageMargins(top= 0.75 , header=0.3, bottom= 0.75,
@@ -568,7 +566,7 @@ openpyxl.worksheet.page.PrintOptions(horizontalCentered=True)
 sheet.page_setup.horizontalCentered = True
 
 workbook.save(f"{excel_sheet_name}")
-print('Saving...')
+print('>>>Saving...')
 
 
 

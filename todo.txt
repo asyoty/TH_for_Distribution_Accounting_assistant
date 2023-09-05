@@ -2,4 +2,15 @@
 
 2. automatic ordering(sort)
 
-pyinstaller --onefile your_script.py
+
+
+------------------------------------------------------------
+
+3. target
+
+4. storage
+
+
+
+
+pyinstaller --onefile main.py

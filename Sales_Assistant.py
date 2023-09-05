@@ -21,11 +21,14 @@ all_files = os.listdir(script_directory)
 # Filter for Excel files with ".xlsx" extension
 excel_files = [file for file in all_files if file.endswith('.xlsx')]
 
-if len(excel_files) == 1:
+if len(excel_files) > 1:
+    print("Multiple Excel sheets found, you should remove the extra sheets.")
+elif len(excel_files) == 1:
     excel_sheet_name = excel_files[0]
     print("Excel sheet detected.")
 elif len(excel_files) > 1:
     print("Multiple Excel sheets found, you should remove the extra sheets.")
+    print("Excel sheet detected")
 else:
     print("No Excel sheet found, you must place the Excel sheet inside the folder.")
 # Load the workbook
@@ -510,6 +513,8 @@ sheet.print_area = ''
 
 # Save the workbook after making these changes
 workbook.save(f"{excel_sheet_name}")
+
+
 #close openpyxl to use xlwings
 workbook.close()
 
@@ -544,6 +549,14 @@ sheet = workbook['Sales Log Ar']
 
 
 
+# Save the workbook after making these changes
+workbook.save(f"{excel_sheet_name}")
+
+
+
+
+
+
 
 
 
@@ -551,8 +564,11 @@ sheet = workbook['Sales Log Ar']
 
 
 # Save the workbook after making these changes
+openpyxl.worksheet.page.PrintOptions(horizontalCentered=True)
+sheet.page_setup.horizontalCentered = True
+
 workbook.save(f"{excel_sheet_name}")
-('Saving...')
+print('Saving...')
 
 
 

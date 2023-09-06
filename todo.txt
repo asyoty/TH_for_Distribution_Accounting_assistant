@@ -1,8 +1,40 @@
-1. pull from doubleclick directly
-
-2. automatic ordering(sort)
+1. automatic ordering(sort)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. pull from doubleclick directly
 
 ------------------------------------------------------------
 

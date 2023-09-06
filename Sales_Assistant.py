@@ -38,7 +38,7 @@ while True:
 
 # Load the workbook
 workbook = openpyxl.load_workbook(excel_sheet_name)
-# Get the target sheet
+# Get the target sheetOrder_Database
 sheet = workbook['Sales Log Ar']
 #save the file
 workbook.save(f"{excel_sheet_name}")

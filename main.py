@@ -6,7 +6,7 @@ def Frontend_menu():
     print()
     print('       __________________________________________________________________________________________________________________       ')
 
-    print("       Welcome to 'TH Group' Accounting Assistant")
+    print("       Welcome to 'TH for distribution' Accounting Assistant")
     print('       made by Alfred Tharwat')
     print('       __________________________________________________________________________________________________________________       ')
     print('       [1] Sales Assistant')

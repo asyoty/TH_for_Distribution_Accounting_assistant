@@ -17,9 +17,8 @@ else:
 # List all files in the directory
 all_files = os.listdir(script_directory)
 
-# Filter for Excel files with ".xlsx" extension
-excel_files = [file for file in all_files if file.endswith('.xlsx')]
-
+# Filter for Excel files with ".xlsx" extension, excluding "Order_Database.xlsx"
+excel_files = [file for file in all_files if file.endswith('.xlsx') and file != 'Order_Database.xlsx']
 while True:
     if len(excel_files) == 1:
         excel_sheet_name = excel_files[0]
@@ -38,7 +37,7 @@ while True:
 
 # Load the workbook
 workbook = openpyxl.load_workbook(excel_sheet_name)
-# Get the target sheetOrder_Database
+# Get the target sheet
 sheet = workbook['Sales Log Ar']
 #save the file
 workbook.save(f"{excel_sheet_name}")
@@ -272,6 +271,14 @@ sheet = workbook['Sales Log Ar']
 sheet.delete_cols(2)
 workbook.save(f"{excel_sheet_name}")
 
+
+
+##### formatting #####
+
+### arrange the rows
+
+
+
 ### add together the first column
 
 # Create a dictionary to store row sums based on the first column values
@@ -301,6 +308,15 @@ sheet.delete_rows(2, sheet.max_row - 1)
 for value, row_sum in row_sums.items():
     sheet.append([value] + row_sum)  # Add back the first column value
 
+
+#merge header cells
+last_col = sheet.max_column
+# Merge cells in the first and second rows for the first two and last two columns
+workbook.active.merge_cells(start_row=1, start_column=1, end_row=2, end_column=1)
+workbook.active.merge_cells(start_row=1, start_column=last_col - 1, end_row=2, end_column=last_col - 1)
+workbook.active.merge_cells(start_row=1, start_column=last_col, end_row=2, end_column=last_col)
+
+
 ### Calculate the total 'الاجمالي'
 # Get the last row number
 last_row = sheet.max_row
@@ -319,33 +335,6 @@ for col in range(2, sheet.max_column + 1):  # Start from the second column
     cell = sheet.cell(row=last_row + 1, column=col)
     cell.value = f"={sum_formula}"
 
-#merge header cells
-last_col = sheet.max_column
-# Merge cells in the first and second rows for the first two and last two columns
-workbook.active.merge_cells(start_row=1, start_column=1, end_row=2, end_column=1)
-workbook.active.merge_cells(start_row=1, start_column=last_col - 1, end_row=2, end_column=last_col - 1)
-workbook.active.merge_cells(start_row=1, start_column=last_col, end_row=2, end_column=last_col)
-
-##### formatting #####
-
-### arrange the rows alphabetically
-
-# Read all rows into a list (excluding first 2 and last row)
-rows = [row for idx, row in enumerate(sheet.iter_rows(), start=1) if idx > 2 and idx < sheet.max_row]
-
-# Sort the rows based on values in the first column (model name) and then the second column (capacity)
-sorted_rows = sorted(rows, key=lambda row: (row[0].value.lower(), row[1].value))
-
-# Create a new list with first 2 rows and sorted rows
-new_rows = [sheet[1], sheet[2]] + sorted_rows + [sheet[sheet.max_row]]
-
-# Clear the existing content in the sheet
-sheet.delete_rows(3, sheet.max_row - 2)
-
-# Write the new rows back to the sheet
-for idx, row in enumerate(new_rows, start=1):
-    for col_idx, cell in enumerate(row, start=1):
-        new_cell = sheet.cell(row=idx, column=col_idx, value=cell.value)
 
 #unfreeze panes
 sheet.freeze_panes = None
@@ -437,6 +426,7 @@ for row in sheet.iter_rows(min_row=1, max_row=2):
 last_row = sheet.max_row
 for cell in sheet[last_row]:
     cell.fill = light_grey_fill
+
 
 ### create new sheet
 
@@ -566,8 +556,6 @@ openpyxl.worksheet.page.PrintOptions(horizontalCentered=True)
 sheet.page_setup.horizontalCentered = True
 
 workbook.save(f"{excel_sheet_name}")
-print('>>>Saving...')
-
 
 
 

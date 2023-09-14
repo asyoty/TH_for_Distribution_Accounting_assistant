@@ -7,34 +7,10 @@
 
 
 
+2 . says multiple hseets detected when the sheet is open
+3. general station to the far right
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. pull from doubleclick directly
+4. pull from doubleclick directly
 
 ------------------------------------------------------------
 

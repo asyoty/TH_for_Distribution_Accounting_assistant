@@ -1,8 +1,8 @@
 1. automatic ordering(sort)
+    formatiing
 
 
-
-
+auto englarge first coulmn
 
 
 

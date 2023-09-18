@@ -17,6 +17,8 @@ else:
 # List all files in the directory
 all_files = os.listdir(script_directory)
 
+
+
 # Filter for Excel files with ".xlsx" extension, excluding "Order_Database.xlsx"
 excel_files = [file for file in all_files if file.endswith('.xlsx') and file != 'Order_Database.xlsx']
 while True:
@@ -25,22 +27,22 @@ while True:
         print("Excel sheet detected.")
         break
     elif len(excel_files) > 1:
-        print("Multiple Excel sheets found, you should remove the extra sheet(s).")
+        print("ERROR: Excel sheet is open OR multiple excel sheets are in the folder, you should close the sheet OR you should remove the extra sheet(s).")
+    elif len(excel_files) < 1:
+        print("ERROR: No Excel sheet found, you must place the Excel sheet inside the folder.")
     else:
-        print("No Excel sheet found, you must place the Excel sheet inside the folder.")
+        print('ERROR')
 
     print('App closing in 5 seconds.')
     time.sleep(5)
     sys.exit()
-
-
 
 # Load the workbook
 workbook = openpyxl.load_workbook(excel_sheet_name)
 # Get the target sheet
 sheet = workbook['Sales Log Ar']
 #save the file
-workbook.save(f"{excel_sheet_name}")
+workbook.save(excel_sheet_name)
 
 ## Unmerge all cells in the sheet
 
@@ -277,7 +279,49 @@ workbook.save(f"{excel_sheet_name}")
 
 ### arrange the rows
 
+#Load the workbook
+workbook = openpyxl.load_workbook(excel_sheet_name)
+sheet = workbook['Sales Log Ar']
 
+# Load the 'Order_Database'
+Order_Workbook = openpyxl.load_workbook('Order_Database.xlsx')
+order_sheet = Order_Workbook['Item List Report Ar']
+
+# Extract data from both sheets
+data = []
+# Iterate through the first column (excluding the first two cells)
+for row_idx, row in enumerate(sheet.iter_rows(min_row=3, min_col=1, max_col=1, values_only=True), start=3):
+    cell_value = row[0]
+    data.append(cell_value)
+
+order_data = []
+
+# Iterate through the first column of the order_sheet
+for row in order_sheet.iter_rows(min_row=3, min_col=1, max_col=1, values_only=True):
+    cell_value = row[0]
+    order_data.append(cell_value)
+
+# Sort the 'data' list based on the order specified in 'order_data'
+sorted_data = sorted(data, key=lambda item: order_data.index(item))
+
+# Create a list to store the rows
+rows_to_sort = []
+
+# Iterate through the rows (starting from the third row) and populate the rows_to_sort list
+for row in sheet.iter_rows(min_row=3, max_row=sheet.max_row, values_only=True):
+    rows_to_sort.append(list(row))
+
+# Sort the rows based on the first column (assuming the first column contains the values to match)
+sorted_rows = sorted(rows_to_sort, key=lambda x: sorted_data.index(x[0]) if x[0] in sorted_data else len(sorted_data))
+
+
+# Write the sorted rows back to the specific rows (starting from the third row)
+for row_index, row_data in enumerate(sorted_rows, start=3):
+    for col_num, cell_value in enumerate(row_data, start=1):
+        sheet.cell(row=row_index, column=col_num, value=cell_value)
+
+workbook.save(excel_sheet_name)
+Order_Workbook.close()
 
 ### add together the first column
 

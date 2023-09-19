@@ -277,7 +277,7 @@ workbook.save(f"{excel_sheet_name}")
 
 ##### formatting #####
 
-### arrange the rows
+### sort the rows
 
 #Load the workbook
 workbook = openpyxl.load_workbook(excel_sheet_name)
@@ -313,6 +313,12 @@ for row in sheet.iter_rows(min_row=3, max_row=sheet.max_row, values_only=True):
 
 # Sort the rows based on the first column (assuming the first column contains the values to match)
 sorted_rows = sorted(rows_to_sort, key=lambda x: sorted_data.index(x[0]) if x[0] in sorted_data else len(sorted_data))
+
+# Clear the existing data in the rows (starting from the third row)
+for row_num in range(3, sheet.max_row + 1):
+    for col_num in range(1, sheet.max_column + 1):
+        cell = sheet.cell(row=row_num, column=col_num)
+        cell.value = None
 
 
 # Write the sorted rows back to the specific rows (starting from the third row)
@@ -471,6 +477,12 @@ last_row = sheet.max_row
 for cell in sheet[last_row]:
     cell.fill = light_grey_fill
 
+'''
+# Color the rows alternating
+for row in sheet.iter_rows(min_row=1, max_row=2):
+    for cell in row:
+        cell.fill = light_grey_fill
+'''
 
 ### create new sheet
 

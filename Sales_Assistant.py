@@ -464,9 +464,9 @@ for row_idx, row in enumerate(sheet.iter_rows(), start=1):
 ### color the cells
 
 # Define the slightly lighter grey fill color (RGB: 160, 160, 160)
-light_grey_fill = PatternFill(start_color='FFA0A0A0', end_color='FFA0A0A0'
-                              , fill_type='solid')
+light_grey_fill = PatternFill(start_color='FFA0A0A0', end_color='FFA0A0A0', fill_type='solid')
 
+very_light_grey_fill = PatternFill(start_color='FFBEBEBE', end_color='FFBEBEBE', fill_type='solid')
 # Color the first two rows
 for row in sheet.iter_rows(min_row=1, max_row=2):
     for cell in row:
@@ -477,12 +477,11 @@ last_row = sheet.max_row
 for cell in sheet[last_row]:
     cell.fill = light_grey_fill
 
-'''
 # Color the rows alternating
-for row in sheet.iter_rows(min_row=1, max_row=2):
-    for cell in row:
-        cell.fill = light_grey_fill
-'''
+for i, row in enumerate(sheet.iter_rows(min_row=4, max_row=sheet.max_column-4), start=0):
+    if i % 2 == 0:
+        for cell in row:
+            cell.fill = very_light_grey_fill
 
 ### create new sheet
 

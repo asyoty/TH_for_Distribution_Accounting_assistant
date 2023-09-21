@@ -478,7 +478,7 @@ for cell in sheet[last_row]:
     cell.fill = light_grey_fill
 
 # Color the rows alternating
-for i, row in enumerate(sheet.iter_rows(min_row=4, max_row=sheet.max_column-4), start=0):
+for i, row in enumerate(sheet.iter_rows(min_row=4, max_row=sheet.max_row-1), start=0):
     if i % 2 == 0:
         for cell in row:
             cell.fill = very_light_grey_fill

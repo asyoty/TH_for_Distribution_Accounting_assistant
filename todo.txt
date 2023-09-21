@@ -1,10 +1,8 @@
-auto englarge first coulmn
 
 
 
 
 2 . says multiple hseets detected when the sheet is open
-3. general station to the far right
 
 4. pull from doubleclick directly
 

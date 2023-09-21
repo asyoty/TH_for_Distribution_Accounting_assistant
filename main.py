@@ -1,4 +1,5 @@
 import msvcrt
+import time
 
 ### fontend menu ###
 def Frontend_menu():
@@ -33,3 +34,4 @@ while True:
         if user_input == 'exit':
             print("Exiting the program.")
             break
+

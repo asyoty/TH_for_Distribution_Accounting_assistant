@@ -1,6 +1,6 @@
-('C:\\big\\TH_Group_Accounting_assistant\\build\\main\\PYZ-00.pyz',
+('C:\\big\\TH_for_Distribution_Accounting_assistant\\build\\main\\PYZ-00.pyz',
  [('Sales_Assistant',
-   'C:\\big\\TH_Group_Accounting_assistant\\Sales_Assistant.py',
+   'C:\\big\\TH_for_Distribution_Accounting_assistant\\Sales_Assistant.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Users\\Alfred '
@@ -23,10 +23,12 @@
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
    'PYMODULE'),
   ('_pyi_rth_utils',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
    'PYMODULE'),
   ('_pyi_rth_utils._win32',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
    'PYMODULE'),
   ('_strptime',
    'C:\\Users\\Alfred '
@@ -189,7 +191,8 @@
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
    'PYMODULE'),
   ('commctrl',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32\\lib\\commctrl.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\commctrl.py',
    'PYMODULE'),
   ('concurrent',
    'C:\\Users\\Alfred '
@@ -336,10 +339,12 @@
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
    'PYMODULE'),
   ('et_xmlfile',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\et_xmlfile\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\et_xmlfile\\__init__.py',
    'PYMODULE'),
   ('et_xmlfile.xmlfile',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\et_xmlfile\\xmlfile.py',
    'PYMODULE'),
   ('fractions',
    'C:\\Users\\Alfred '
@@ -626,529 +631,704 @@
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
    'PYMODULE'),
   ('openpyxl',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\__init__.py',
    'PYMODULE'),
   ('openpyxl._constants',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\_constants.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\_constants.py',
    'PYMODULE'),
   ('openpyxl.cell',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\cell\\__init__.py',
    'PYMODULE'),
   ('openpyxl.cell._writer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\cell\\_writer.py',
    'PYMODULE'),
   ('openpyxl.cell.cell',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\cell\\cell.py',
    'PYMODULE'),
   ('openpyxl.cell.read_only',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\cell\\read_only.py',
    'PYMODULE'),
   ('openpyxl.cell.rich_text',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\cell\\rich_text.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\cell\\rich_text.py',
    'PYMODULE'),
   ('openpyxl.cell.text',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\cell\\text.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\cell\\text.py',
    'PYMODULE'),
   ('openpyxl.chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\__init__.py',
    'PYMODULE'),
   ('openpyxl.chart._3d',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\_3d.py',
    'PYMODULE'),
   ('openpyxl.chart._chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.area_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\area_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.axis',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\axis.py',
    'PYMODULE'),
   ('openpyxl.chart.bar_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.bubble_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.chartspace',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\chartspace.py',
    'PYMODULE'),
   ('openpyxl.chart.data_source',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\data_source.py',
    'PYMODULE'),
   ('openpyxl.chart.descriptors',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\descriptors.py',
    'PYMODULE'),
   ('openpyxl.chart.error_bar',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\error_bar.py',
    'PYMODULE'),
   ('openpyxl.chart.label',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\label.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\label.py',
    'PYMODULE'),
   ('openpyxl.chart.layout',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\layout.py',
    'PYMODULE'),
   ('openpyxl.chart.legend',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\legend.py',
    'PYMODULE'),
   ('openpyxl.chart.line_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\line_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.marker',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\marker.py',
    'PYMODULE'),
   ('openpyxl.chart.picture',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\picture.py',
    'PYMODULE'),
   ('openpyxl.chart.pie_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.pivot',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\pivot.py',
    'PYMODULE'),
   ('openpyxl.chart.plotarea',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\plotarea.py',
    'PYMODULE'),
   ('openpyxl.chart.print_settings',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\print_settings.py',
    'PYMODULE'),
   ('openpyxl.chart.radar_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.reader',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\reader.py',
    'PYMODULE'),
   ('openpyxl.chart.reference',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\reference.py',
    'PYMODULE'),
   ('openpyxl.chart.scatter_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.series',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\series.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\series.py',
    'PYMODULE'),
   ('openpyxl.chart.series_factory',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\series_factory.py',
    'PYMODULE'),
   ('openpyxl.chart.shapes',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\shapes.py',
    'PYMODULE'),
   ('openpyxl.chart.stock_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.surface_chart',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
    'PYMODULE'),
   ('openpyxl.chart.text',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\text.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\text.py',
    'PYMODULE'),
   ('openpyxl.chart.title',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\title.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\title.py',
    'PYMODULE'),
   ('openpyxl.chart.trendline',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\trendline.py',
    'PYMODULE'),
   ('openpyxl.chart.updown_bars',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
    'PYMODULE'),
   ('openpyxl.chartsheet',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.chartsheet',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.custom',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.properties',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.protection',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.publish',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.relation',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
    'PYMODULE'),
   ('openpyxl.chartsheet.views',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\chartsheet\\views.py',
    'PYMODULE'),
   ('openpyxl.comments',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\comments\\__init__.py',
    'PYMODULE'),
   ('openpyxl.comments.author',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\comments\\author.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\comments\\author.py',
    'PYMODULE'),
   ('openpyxl.comments.comment_sheet',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
    'PYMODULE'),
   ('openpyxl.comments.comments',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\comments\\comments.py',
    'PYMODULE'),
   ('openpyxl.comments.shape_writer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
    'PYMODULE'),
   ('openpyxl.compat',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\compat\\__init__.py',
    'PYMODULE'),
   ('openpyxl.compat.numbers',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\compat\\numbers.py',
    'PYMODULE'),
   ('openpyxl.compat.strings',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\compat\\strings.py',
    'PYMODULE'),
   ('openpyxl.descriptors',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
    'PYMODULE'),
   ('openpyxl.descriptors.base',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\base.py',
    'PYMODULE'),
   ('openpyxl.descriptors.excel',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\excel.py',
    'PYMODULE'),
   ('openpyxl.descriptors.namespace',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
    'PYMODULE'),
   ('openpyxl.descriptors.nested',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\nested.py',
    'PYMODULE'),
   ('openpyxl.descriptors.sequence',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
    'PYMODULE'),
   ('openpyxl.descriptors.serialisable',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
    'PYMODULE'),
   ('openpyxl.drawing',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\__init__.py',
    'PYMODULE'),
   ('openpyxl.drawing.colors',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\colors.py',
    'PYMODULE'),
   ('openpyxl.drawing.connector',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\connector.py',
    'PYMODULE'),
   ('openpyxl.drawing.drawing',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\drawing.py',
    'PYMODULE'),
   ('openpyxl.drawing.effect',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\effect.py',
    'PYMODULE'),
   ('openpyxl.drawing.fill',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\fill.py',
    'PYMODULE'),
   ('openpyxl.drawing.geometry',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\geometry.py',
    'PYMODULE'),
   ('openpyxl.drawing.graphic',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\graphic.py',
    'PYMODULE'),
   ('openpyxl.drawing.image',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\image.py',
    'PYMODULE'),
   ('openpyxl.drawing.line',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\line.py',
    'PYMODULE'),
   ('openpyxl.drawing.picture',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\picture.py',
    'PYMODULE'),
   ('openpyxl.drawing.properties',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\properties.py',
    'PYMODULE'),
   ('openpyxl.drawing.relation',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\relation.py',
    'PYMODULE'),
   ('openpyxl.drawing.spreadsheet_drawing',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
    'PYMODULE'),
   ('openpyxl.drawing.text',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\text.py',
    'PYMODULE'),
   ('openpyxl.drawing.xdr',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\drawing\\xdr.py',
    'PYMODULE'),
   ('openpyxl.formatting',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\formatting\\__init__.py',
    'PYMODULE'),
   ('openpyxl.formatting.formatting',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\formatting\\formatting.py',
    'PYMODULE'),
   ('openpyxl.formatting.rule',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\formatting\\rule.py',
    'PYMODULE'),
   ('openpyxl.formula',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\formula\\__init__.py',
    'PYMODULE'),
   ('openpyxl.formula.tokenizer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
    'PYMODULE'),
   ('openpyxl.formula.translate',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\formula\\translate.py',
    'PYMODULE'),
   ('openpyxl.packaging',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\__init__.py',
    'PYMODULE'),
   ('openpyxl.packaging.core',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\core.py',
    'PYMODULE'),
   ('openpyxl.packaging.custom',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\custom.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\custom.py',
    'PYMODULE'),
   ('openpyxl.packaging.extended',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\extended.py',
    'PYMODULE'),
   ('openpyxl.packaging.manifest',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\manifest.py',
    'PYMODULE'),
   ('openpyxl.packaging.relationship',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\relationship.py',
    'PYMODULE'),
   ('openpyxl.packaging.workbook',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\packaging\\workbook.py',
    'PYMODULE'),
   ('openpyxl.pivot',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\pivot\\__init__.py',
    'PYMODULE'),
   ('openpyxl.pivot.cache',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\pivot\\cache.py',
    'PYMODULE'),
   ('openpyxl.pivot.fields',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\pivot\\fields.py',
    'PYMODULE'),
   ('openpyxl.pivot.record',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\pivot\\record.py',
    'PYMODULE'),
   ('openpyxl.pivot.table',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\pivot\\table.py',
    'PYMODULE'),
   ('openpyxl.reader',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\reader\\__init__.py',
    'PYMODULE'),
   ('openpyxl.reader.drawings',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\reader\\drawings.py',
    'PYMODULE'),
   ('openpyxl.reader.excel',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\reader\\excel.py',
    'PYMODULE'),
   ('openpyxl.reader.strings',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\reader\\strings.py',
    'PYMODULE'),
   ('openpyxl.reader.workbook',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\reader\\workbook.py',
    'PYMODULE'),
   ('openpyxl.styles',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\__init__.py',
    'PYMODULE'),
   ('openpyxl.styles.alignment',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\alignment.py',
    'PYMODULE'),
   ('openpyxl.styles.borders',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\borders.py',
    'PYMODULE'),
   ('openpyxl.styles.builtins',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\builtins.py',
    'PYMODULE'),
   ('openpyxl.styles.cell_style',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\cell_style.py',
    'PYMODULE'),
   ('openpyxl.styles.colors',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\colors.py',
    'PYMODULE'),
   ('openpyxl.styles.differential',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\differential.py',
    'PYMODULE'),
   ('openpyxl.styles.fills',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\fills.py',
    'PYMODULE'),
   ('openpyxl.styles.fonts',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\fonts.py',
    'PYMODULE'),
   ('openpyxl.styles.named_styles',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\named_styles.py',
    'PYMODULE'),
   ('openpyxl.styles.numbers',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\numbers.py',
    'PYMODULE'),
   ('openpyxl.styles.protection',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\protection.py',
    'PYMODULE'),
   ('openpyxl.styles.proxy',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\proxy.py',
    'PYMODULE'),
   ('openpyxl.styles.styleable',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\styleable.py',
    'PYMODULE'),
   ('openpyxl.styles.stylesheet',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
    'PYMODULE'),
   ('openpyxl.styles.table',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\styles\\table.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\styles\\table.py',
    'PYMODULE'),
   ('openpyxl.utils',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\__init__.py',
    'PYMODULE'),
   ('openpyxl.utils.bound_dictionary',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
    'PYMODULE'),
   ('openpyxl.utils.cell',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\cell.py',
    'PYMODULE'),
   ('openpyxl.utils.datetime',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\datetime.py',
    'PYMODULE'),
   ('openpyxl.utils.escape',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\escape.py',
    'PYMODULE'),
   ('openpyxl.utils.exceptions',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\exceptions.py',
    'PYMODULE'),
   ('openpyxl.utils.formulas',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\formulas.py',
    'PYMODULE'),
   ('openpyxl.utils.indexed_list',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
    'PYMODULE'),
   ('openpyxl.utils.protection',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\protection.py',
    'PYMODULE'),
   ('openpyxl.utils.units',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\utils\\units.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\utils\\units.py',
    'PYMODULE'),
   ('openpyxl.workbook',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\__init__.py',
    'PYMODULE'),
   ('openpyxl.workbook._writer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\_writer.py',
    'PYMODULE'),
   ('openpyxl.workbook.child',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\child.py',
    'PYMODULE'),
   ('openpyxl.workbook.defined_name',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
    'PYMODULE'),
   ('openpyxl.workbook.external_link',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
    'PYMODULE'),
   ('openpyxl.workbook.external_link.external',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
    'PYMODULE'),
   ('openpyxl.workbook.external_reference',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
    'PYMODULE'),
   ('openpyxl.workbook.function_group',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\function_group.py',
    'PYMODULE'),
   ('openpyxl.workbook.properties',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\properties.py',
    'PYMODULE'),
   ('openpyxl.workbook.protection',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\protection.py',
    'PYMODULE'),
   ('openpyxl.workbook.smart_tags',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
    'PYMODULE'),
   ('openpyxl.workbook.views',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\views.py',
    'PYMODULE'),
   ('openpyxl.workbook.web',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\web.py',
    'PYMODULE'),
   ('openpyxl.workbook.workbook',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\workbook\\workbook.py',
    'PYMODULE'),
   ('openpyxl.worksheet',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
    'PYMODULE'),
   ('openpyxl.worksheet._read_only',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
    'PYMODULE'),
   ('openpyxl.worksheet._reader',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
    'PYMODULE'),
   ('openpyxl.worksheet._write_only',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
    'PYMODULE'),
   ('openpyxl.worksheet._writer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
    'PYMODULE'),
   ('openpyxl.worksheet.cell_range',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
    'PYMODULE'),
   ('openpyxl.worksheet.copier',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\copier.py',
    'PYMODULE'),
   ('openpyxl.worksheet.datavalidation',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
    'PYMODULE'),
   ('openpyxl.worksheet.dimensions',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
    'PYMODULE'),
   ('openpyxl.worksheet.drawing',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
    'PYMODULE'),
   ('openpyxl.worksheet.filters',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\filters.py',
    'PYMODULE'),
   ('openpyxl.worksheet.formula',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\formula.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\formula.py',
    'PYMODULE'),
   ('openpyxl.worksheet.header_footer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
    'PYMODULE'),
   ('openpyxl.worksheet.hyperlink',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
    'PYMODULE'),
   ('openpyxl.worksheet.merge',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\merge.py',
    'PYMODULE'),
   ('openpyxl.worksheet.page',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\page.py',
    'PYMODULE'),
   ('openpyxl.worksheet.pagebreak',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
    'PYMODULE'),
   ('openpyxl.worksheet.print_settings',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
    'PYMODULE'),
   ('openpyxl.worksheet.properties',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\properties.py',
    'PYMODULE'),
   ('openpyxl.worksheet.protection',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\protection.py',
    'PYMODULE'),
   ('openpyxl.worksheet.related',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\related.py',
    'PYMODULE'),
   ('openpyxl.worksheet.scenario',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
    'PYMODULE'),
   ('openpyxl.worksheet.table',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\table.py',
    'PYMODULE'),
   ('openpyxl.worksheet.views',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\views.py',
    'PYMODULE'),
   ('openpyxl.worksheet.worksheet',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
    'PYMODULE'),
   ('openpyxl.writer',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\writer\\__init__.py',
    'PYMODULE'),
   ('openpyxl.writer.excel',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\writer\\excel.py',
    'PYMODULE'),
   ('openpyxl.writer.theme',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\writer\\theme.py',
    'PYMODULE'),
   ('openpyxl.xml',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\xml\\__init__.py',
    'PYMODULE'),
   ('openpyxl.xml.constants',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\xml\\constants.py',
    'PYMODULE'),
   ('openpyxl.xml.functions',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\openpyxl\\xml\\functions.py',
    'PYMODULE'),
   ('pickle',
    'C:\\Users\\Alfred '
@@ -1171,38 +1351,49 @@
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
    'PYMODULE'),
   ('pythoncom',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\pythoncom.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pythoncom.py',
    'PYMODULE'),
   ('pywin',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
    'PYMODULE'),
   ('pywin.dialogs',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
    'PYMODULE'),
   ('pywin.dialogs.list',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
    'PYMODULE'),
   ('pywin.dialogs.status',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
    'PYMODULE'),
   ('pywin.mfc',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
    'PYMODULE'),
   ('pywin.mfc.dialog',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
    'PYMODULE'),
   ('pywin.mfc.object',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
    'PYMODULE'),
   ('pywin.mfc.thread',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
    'PYMODULE'),
   ('pywin.mfc.window',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
    'PYMODULE'),
   ('pywin32_system32', '-', 'PYMODULE'),
   ('pywintypes',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
    'PYMODULE'),
   ('queue',
    'C:\\Users\\Alfred '
@@ -1293,202 +1484,268 @@
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\uuid.py',
    'PYMODULE'),
   ('win32com',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\__init__.py',
    'PYMODULE'),
   ('win32com.client',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\__init__.py',
    'PYMODULE'),
   ('win32com.client.CLSIDToClass',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
    'PYMODULE'),
   ('win32com.client.build',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\build.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\build.py',
    'PYMODULE'),
   ('win32com.client.dynamic',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\dynamic.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\dynamic.py',
    'PYMODULE'),
   ('win32com.client.gencache',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\gencache.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\gencache.py',
    'PYMODULE'),
   ('win32com.client.genpy',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\genpy.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\genpy.py',
    'PYMODULE'),
   ('win32com.client.makepy',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\makepy.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\makepy.py',
    'PYMODULE'),
   ('win32com.client.selecttlb',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
    'PYMODULE'),
   ('win32com.client.util',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\client\\util.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\util.py',
    'PYMODULE'),
   ('win32com.server',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\server\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\__init__.py',
    'PYMODULE'),
   ('win32com.server.dispatcher',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
    'PYMODULE'),
   ('win32com.server.exception',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\server\\exception.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\exception.py',
    'PYMODULE'),
   ('win32com.server.policy',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\server\\policy.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\policy.py',
    'PYMODULE'),
   ('win32com.server.util',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\server\\util.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\util.py',
    'PYMODULE'),
   ('win32com.universal',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\universal.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\universal.py',
    'PYMODULE'),
   ('win32com.util',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32com\\util.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\util.py',
    'PYMODULE'),
   ('win32con',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32con.py',
    'PYMODULE'),
   ('win32timezone',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32\\lib\\win32timezone.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32timezone.py',
    'PYMODULE'),
   ('win32traceutil',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
    'PYMODULE'),
   ('winerror',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\winerror.py',
    'PYMODULE'),
   ('xlwings',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\__init__.py',
    'PYMODULE'),
   ('xlwings._win32patch',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\_win32patch.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\_win32patch.py',
    'PYMODULE'),
   ('xlwings._xlmac',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\_xlmac.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\_xlmac.py',
    'PYMODULE'),
   ('xlwings._xlwindows',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\_xlwindows.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\_xlwindows.py',
    'PYMODULE'),
   ('xlwings.base_classes',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\base_classes.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\base_classes.py',
    'PYMODULE'),
   ('xlwings.com_server',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\com_server.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\com_server.py',
    'PYMODULE'),
   ('xlwings.constants',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\constants.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\constants.py',
    'PYMODULE'),
   ('xlwings.conversion',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\conversion\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\__init__.py',
    'PYMODULE'),
   ('xlwings.conversion.framework',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\conversion\\framework.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\framework.py',
    'PYMODULE'),
   ('xlwings.conversion.numpy_conv',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\conversion\\numpy_conv.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\numpy_conv.py',
    'PYMODULE'),
   ('xlwings.conversion.pandas_conv',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\conversion\\pandas_conv.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\pandas_conv.py',
    'PYMODULE'),
   ('xlwings.conversion.standard',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\conversion\\standard.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\conversion\\standard.py',
    'PYMODULE'),
   ('xlwings.expansion',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\expansion.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\expansion.py',
    'PYMODULE'),
   ('xlwings.mac_dict',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mac_dict.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mac_dict.py',
    'PYMODULE'),
   ('xlwings.main',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\main.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\main.py',
    'PYMODULE'),
   ('xlwings.mistune',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\__init__.py',
    'PYMODULE'),
   ('xlwings.mistune.block_parser',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\block_parser.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\block_parser.py',
    'PYMODULE'),
   ('xlwings.mistune.inline_parser',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\inline_parser.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\inline_parser.py',
    'PYMODULE'),
   ('xlwings.mistune.markdown',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\markdown.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\markdown.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\__init__.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins.abbr',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\abbr.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\abbr.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins.def_list',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\def_list.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\def_list.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins.extra',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\extra.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\extra.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins.footnotes',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\footnotes.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\footnotes.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins.table',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\table.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\table.py',
    'PYMODULE'),
   ('xlwings.mistune.plugins.task_lists',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\plugins\\task_lists.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\plugins\\task_lists.py',
    'PYMODULE'),
   ('xlwings.mistune.renderers',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\renderers.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\renderers.py',
    'PYMODULE'),
   ('xlwings.mistune.scanner',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\scanner.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\scanner.py',
    'PYMODULE'),
   ('xlwings.mistune.util',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\mistune\\util.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\mistune\\util.py',
    'PYMODULE'),
   ('xlwings.pro',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\__init__.py',
    'PYMODULE'),
   ('xlwings.pro._xlcalamine',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\_xlcalamine.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\_xlcalamine.py',
    'PYMODULE'),
   ('xlwings.pro._xlofficejs',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\_xlofficejs.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\_xlofficejs.py',
    'PYMODULE'),
   ('xlwings.pro._xlremote',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\_xlremote.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\_xlremote.py',
    'PYMODULE'),
   ('xlwings.pro.embedded_code',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\embedded_code.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\embedded_code.py',
    'PYMODULE'),
   ('xlwings.pro.module_permissions',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\module_permissions.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\module_permissions.py',
    'PYMODULE'),
   ('xlwings.pro.reports',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\reports\\__init__.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\__init__.py',
    'PYMODULE'),
   ('xlwings.pro.reports.filters',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\reports\\filters.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\filters.py',
    'PYMODULE'),
   ('xlwings.pro.reports.image',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\reports\\image.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\image.py',
    'PYMODULE'),
   ('xlwings.pro.reports.main',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\reports\\main.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\main.py',
    'PYMODULE'),
   ('xlwings.pro.reports.markdown',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\reports\\markdown.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\markdown.py',
    'PYMODULE'),
   ('xlwings.pro.reports.pdf',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\reports\\pdf.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\reports\\pdf.py',
    'PYMODULE'),
   ('xlwings.pro.udfs_officejs',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\udfs_officejs.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\udfs_officejs.py',
    'PYMODULE'),
   ('xlwings.pro.utils',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\pro\\utils.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\pro\\utils.py',
    'PYMODULE'),
   ('xlwings.udfs',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\udfs.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\udfs.py',
    'PYMODULE'),
   ('xlwings.utils',
-   'C:\\big\\TH_Group_Accounting_assistant\\venv\\Lib\\site-packages\\xlwings\\utils.py',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\utils.py',
    'PYMODULE'),
   ('xml',
    'C:\\Users\\Alfred '

@@ -1,8 +1,8 @@
 
 
 
-
-2 . says multiple hseets detected when the sheet is open
+MAKE LIGHT GREY LIGHTER
+2 . says multiple sheets detected when the sheet is open
 
 4. pull from doubleclick directly
 
@@ -15,4 +15,8 @@
 
 
 
+
 pyinstaller --onefile main.py
+
+
+

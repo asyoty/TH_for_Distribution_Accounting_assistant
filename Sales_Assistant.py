@@ -466,7 +466,7 @@ for row_idx, row in enumerate(sheet.iter_rows(), start=1):
 # Define the slightly lighter grey fill color (RGB: 160, 160, 160)
 light_grey_fill = PatternFill(start_color='FFA0A0A0', end_color='FFA0A0A0', fill_type='solid')
 
-very_light_grey_fill = PatternFill(start_color='FFBEBEBE', end_color='FFBEBEBE', fill_type='solid')
+very_light_grey_fill = PatternFill(start_color='FFD9D9D9', end_color='FFD9D9D9', fill_type='solid')
 # Color the first two rows
 for row in sheet.iter_rows(min_row=1, max_row=2):
     for cell in row:

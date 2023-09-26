@@ -1,7 +1,7 @@
-('C:\\big\\TH_for_Distribution_Accounting_assistant\\dist\\main.exe',
+('C:\\big\\TH_for_Distribution_Accounting_assistant\\build\\main\\main.exe',
  True,
  False,
- False,
+ True,
  'C:\\Users\\Alfred '
  'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
  None,
@@ -63,146 +63,11 @@
    'PYSOURCE'),
   ('main',
    'C:\\big\\TH_for_Distribution_Accounting_assistant\\main.py',
-   'PYSOURCE'),
-  ('python311.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('pywin32_system32\\pywintypes311.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pywintypes311.dll',
-   'BINARY'),
-  ('pywin32_system32\\pythoncom311.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pythoncom311.dll',
-   'BINARY'),
-  ('select.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
-   'EXTENSION'),
-  ('_hashlib.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
-   'EXTENSION'),
-  ('_lzma.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
-   'EXTENSION'),
-  ('_bz2.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
-   'EXTENSION'),
-  ('pyexpat.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
-   'EXTENSION'),
-  ('_ssl.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
-   'EXTENSION'),
-  ('_decimal.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
-   'EXTENSION'),
-  ('_multiprocessing.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
-   'EXTENSION'),
-  ('_socket.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
-   'EXTENSION'),
-  ('_ctypes.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
-   'EXTENSION'),
-  ('_queue.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
-   'EXTENSION'),
-  ('win32\\win32trace.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32trace.pyd',
-   'EXTENSION'),
-  ('Pythonwin\\win32ui.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
-   'EXTENSION'),
-  ('win32\\_win32sysloader.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
-   'EXTENSION'),
-  ('win32\\win32api.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32api.pyd',
-   'EXTENSION'),
-  ('unicodedata.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
-  ('_overlapped.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
-   'EXTENSION'),
-  ('_asyncio.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
-   'EXTENSION'),
-  ('win32\\win32event.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32event.pyd',
-   'EXTENSION'),
-  ('xlwings\\xlwingslib.cp311-win_amd64.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\xlwings\\xlwingslib.cp311-win_amd64.pyd',
-   'EXTENSION'),
-  ('win32\\win32process.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32process.pyd',
-   'EXTENSION'),
-  ('win32\\win32gui.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32gui.pyd',
-   'EXTENSION'),
-  ('_uuid.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_uuid.pyd',
-   'EXTENSION'),
-  ('_elementtree.pyd',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_elementtree.pyd',
-   'EXTENSION'),
-  ('VCRUNTIME140_1.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
-   'BINARY'),
-  ('libcrypto-3.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
-   'BINARY'),
-  ('libssl-3.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-3.dll',
-   'BINARY'),
-  ('libffi-8.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
-   'BINARY'),
-  ('Pythonwin\\mfc140u.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
-   'BINARY'),
-  ('base_library.zip',
-   'C:\\big\\TH_for_Distribution_Accounting_assistant\\build\\main\\base_library.zip',
-   'DATA')],
+   'PYSOURCE')],
  [],
  False,
  False,
- 1695549945,
+ 1695719529,
  [('run.exe',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',

@@ -1,22 +1,6 @@
-
-
-
-MAKE LIGHT GREY LIGHTER
-2 . says multiple sheets detected when the sheet is open
-
-4. pull from doubleclick directly
-
 ------------------------------------------------------------
-
 3. target
 
 4. storage
 
-
-
-
-
 pyinstaller --onefile main.py
-
-
-

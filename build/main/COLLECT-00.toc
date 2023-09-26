@@ -9,13 +9,13 @@
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
    'BINARY'),
-  ('pywin32_system32\\pythoncom311.dll',
-   'C:\\Users\\Alfred '
-   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pythoncom311.dll',
-   'BINARY'),
   ('pywin32_system32\\pywintypes311.dll',
    'C:\\Users\\Alfred '
    'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pywintypes311.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom311.dll',
+   'C:\\Users\\Alfred '
+   'T\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pythoncom311.dll',
    'BINARY'),
   ('select.pyd',
    'C:\\Users\\Alfred '

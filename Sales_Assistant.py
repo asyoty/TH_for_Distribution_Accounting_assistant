@@ -171,7 +171,7 @@ worksheet = workbook.active
 for row in worksheet.iter_rows():
     row[1 - 1].value, row[4 - 1].value = row[4 - 1].value, row[1 - 1].value
 
-workbook.save(f"{excel_sheet_name}")
+workbook.save(excel_sheet_name)
 
 
 # add each employee to the top
